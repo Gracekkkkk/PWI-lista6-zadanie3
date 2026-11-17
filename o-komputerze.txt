@@ -1,1 +1,24 @@
 Darwin MacBook-Air-Gracjan-2.local 25.5.0 Darwin Kernel Version 25.5.0: Tue Jun  9 22:19:21 PDT 2026; root:xnu-12377.121.10~1/RELEASE_ARM64_T8122 arm64
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                     5866.
+Pages active:                                 291662.
+Pages inactive:                               297344.
+Pages speculative:                              1601.
+Pages throttled:                                   0.
+Pages wired down:                             149863.
+Pages purgeable:                                7953.
+"Translation faults":                     3983518650.
+Pages copy-on-write:                       110876974.
+Pages zero filled:                        2781640387.
+Pages reactivated:                         543481361.
+Pages purged:                               62955341.
+File-backed pages:                            186740.
+Anonymous pages:                              403867.
+Pages stored in compressor:                   936107.
+Pages occupied by compressor:                 264860.
+Decompressions:                            542173458.
+Compressions:                              598578508.
+Pageins:                                    82248230.
+Pageouts:                                    1996088.
+Swapins:                                      931480.
+Swapouts:                                    1270322.
